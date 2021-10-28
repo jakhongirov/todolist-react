@@ -1,0 +1,33 @@
+.todo-item{
+   display: block;
+   margin-bottom: 15px;
+}
+
+.todo-title{
+   display: inline-block;
+   margin: 0;
+   margin-right: 10px;
+   text-align: center;
+}
+
+.todo-checkbox{
+   display: inline-block;
+   margin-right: 15px;
+}
+
+.btn-todo{
+   width: 80px;
+   color: white;
+   border: solid 2px red;
+   border-radius: 10px;
+   background-color: red;
+}
+
+.btn-todo:hover{
+   opacity: 0.7;
+}
+
+.btn-todo:active{
+   background-color: #fff;
+   color: black;
+}
