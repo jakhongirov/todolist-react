@@ -15,7 +15,7 @@ function App() {
 	const complatedTodo = (evt) => {
 		todo.isComplate = true;
 		if (todo.isComplate === true) {
-			console.log(true);
+		alert('Finished');
 		}
 	};
 
