@@ -16,7 +16,7 @@
 }
 
 .btn-todo{
-   width: 80px;
+   padding: 5px;
    color: white;
    border: solid 2px red;
    border-radius: 10px;
